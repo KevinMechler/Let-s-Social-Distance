@@ -1,6 +1,6 @@
 # Let's Social Distance
 
-A derivative of the "Let's Split" 40% split ortholinear keyboard originally made by <a href="https://www.reddit.com/user/wootpatoot/" target="_blank">u/wootpatoot</a>.
+A derivative of the "Let's Split" 40% split ortholinear keyboard originally made by [u/wootpatoot](https://www.reddit.com/user/wootpatoot/).
 
 
 ![alt text](https://github.com/KevinMechler/Let-s-Social-Distance/blob/master/readme_resources/PCB_Front.PNG)
@@ -23,7 +23,7 @@ New Features:
     * The stripe of the diode goes towards the square pad.
 
 How to Assemble:
-* <a href="https://github.com/nicinabox/lets-split-guide" target="_blank">Let's Split Build Guide</a> 
+* [Let's Split Build Guide](https://github.com/nicinabox/lets-split-guide)
 
 How to Use the Encoders:
 * To be added when we figure this out.
