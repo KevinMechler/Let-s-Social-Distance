@@ -12,7 +12,7 @@ New Features:
 * minimal text and words on the silkscreen. The stripe of the diode goes towards the square pad. Look at the layout file for confirm diode placements
 
 How to Assemble:
-* Link: https://github.com/nicinabox/lets-split-guide
+* [Let's Split Build Guide](https://github.com/nicinabox/lets-split-guide)
 
 How to Use the Encoders:
 * To be added when we figure this out.
