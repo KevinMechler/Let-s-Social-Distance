@@ -2,7 +2,7 @@
 
 A derivative of the "Let's Split"  40% split ortholinear keyboard originally made by /u/wootpatoot.
 
-![alt text](https://github.com/KevinMechler/Portfolio/blob/master/2019%20LHRe%20Telemetry%20PCB/19-ELC-2700(Telemetry)1.jpg)
+![alt text](https://github.com/KevinMechler/Let-s-Social-Distance/blob/master/readme_resources/PCB_Front.PNG)
 
 This was re-designed during my spring break that was extended by the covid-19 pandemic. The PCB silkscreen design features artisitic depictions of the malice that tainted our world.
 
