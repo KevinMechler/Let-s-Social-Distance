@@ -9,12 +9,12 @@ The PCB silkscreen design features artisitic depictions of the _malice_ that tai
 
 New Features:
 * Support for a single encoder per PCB in the bottom left or right corner.
-⋅⋅⋅ Optional switch in encoder will be part of the key switch matrix.
+	Optional switch in encoder will be part of the key switch matrix.
 * Status LED above the Pro-Micro on each half, controlled by the primary Pro-Micro.
-⋅⋅⋅ Data is carried over TRRS cable
+	Data is carried over TRRS cable
 * Minimal silkscreen text 
-⋅⋅⋅ Look at the layout file for confirmed diode placements
-⋅⋅⋅ The stripe of the diode goes towards the square pad.
+	Look at the layout file for confirmed diode placements
+	The stripe of the diode goes towards the square pad.
 
 How to Assemble:
 * [Let's Split Build Guide](https://github.com/nicinabox/lets-split-guide)
